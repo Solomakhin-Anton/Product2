@@ -2,7 +2,8 @@ package ru.netology.repository;
 
 import org.junit.jupiter.api.Test;
 import ru.netology.domain.*;
-import ru.netology.domain.Repository;
+import ru.netology.repository.Repository;
+import ru.netology.exception.NotFoundException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
